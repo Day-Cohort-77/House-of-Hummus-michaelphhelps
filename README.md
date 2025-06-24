@@ -38,6 +38,7 @@ Given the description and animation above...
 1. Create an ERD for this application before you begin.
 https://dbdiagram.io/d/House-of-Hummus-6852ec4ff039ec6d36d6a3f1
 1. Make a list of what modules need to be created to make your application as modular as possible. Create a **Dependency Graph** for the project to be reviewed once you are complete with the assessment.
+https://drive.google.com/file/d/1Fnq-oR0Yhi2TwM8nRsSlDn3htxaSXKVR/view?usp=sharing
 1. Create a **Sequence Diagram** that visualizes what your algorithm is for this project. We'll give you a minimal starting point.
 
 ```mermaid
